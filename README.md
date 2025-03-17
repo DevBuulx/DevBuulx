@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-Olá! Meu nome é Rian Pereira e estou atualmente cursando o 6º semestre de Ciência da Computação. Sou apaixonado por tecnologia desde pequeno e essa paixão me levou ao mundo da programação, que rapidamente se tornou minha vocação. Estou sempre querendo aprender mais e aprofundar meu conhecimento em várias áreas da tecnologia.
+Olá! Meu nome é Rian Pereira e estou atualmente cursando o 7º semestre de Ciência da Computação. Sou apaixonado por tecnologia desde pequeno e essa paixão me levou ao mundo da programação, que rapidamente se tornou minha vocação. Estou sempre querendo aprender mais e aprofundar meu conhecimento em várias áreas da tecnologia.
 
 
 ## 🌐 Redes Sociais:
